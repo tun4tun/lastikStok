@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/lastikstok/static/css/main.ad4b8ce5.chunk.css",
+    "main.js": "/lastikstok/static/js/main.45f1c75b.chunk.js",
+    "main.js.map": "/lastikstok/static/js/main.45f1c75b.chunk.js.map",
+    "runtime-main.js": "/lastikstok/static/js/runtime-main.77185bd9.js",
+    "runtime-main.js.map": "/lastikstok/static/js/runtime-main.77185bd9.js.map",
+    "static/js/2.f2978859.chunk.js": "/lastikstok/static/js/2.f2978859.chunk.js",
+    "static/js/2.f2978859.chunk.js.map": "/lastikstok/static/js/2.f2978859.chunk.js.map",
+    "index.html": "/lastikstok/index.html",
+    "precache-manifest.58ceb83d0232848a6221334d01bcf33d.js": "/lastikstok/precache-manifest.58ceb83d0232848a6221334d01bcf33d.js",
+    "service-worker.js": "/lastikstok/service-worker.js",
+    "static/css/main.ad4b8ce5.chunk.css.map": "/lastikstok/static/css/main.ad4b8ce5.chunk.css.map",
+    "static/js/2.f2978859.chunk.js.LICENSE.txt": "/lastikstok/static/js/2.f2978859.chunk.js.LICENSE.txt",
+    "static/js/main.45f1c75b.chunk.js.LICENSE.txt": "/lastikstok/static/js/main.45f1c75b.chunk.js.LICENSE.txt",
+    "static/media/argon-react-white.png": "/lastikstok/static/media/argon-react-white.275a2629.png",
+    "static/media/argon-react.png": "/lastikstok/static/media/argon-react.f38ddea9.png",
+    "static/media/all.min.css": "/lastikstok/static/media/fa-solid-900.815694de.woff",
+    "static/media/nucleo.css": "/lastikstok/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/profile-cover.jpg": "/lastikstok/static/media/profile-cover.e2582654.jpg",
+    "static/media/sketch.jpg": "/lastikstok/static/media/sketch.e7c82e5c.jpg",
+    "static/media/team-1-800x800.jpg": "/lastikstok/static/media/team-1-800x800.53033970.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77185bd9.js",
+    "static/js/2.f2978859.chunk.js",
+    "static/css/main.ad4b8ce5.chunk.css",
+    "static/js/main.45f1c75b.chunk.js"
+  ]
+}
