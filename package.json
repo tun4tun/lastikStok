@@ -13,7 +13,7 @@
   "bugs": {
     "url": ""
   },
-  "homepage": "https://tun4tun.github.io/lastikstok",
+  "homepage": "https://tun4tun.github.io/lastikStok",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
